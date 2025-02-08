@@ -1,3 +1,25 @@
+# Samsung Activity Recognition - Data Analysis
+
+This repository contains an R script (`run_analysis.R`) that performs data cleaning and analysis on the Samsung Human Activity Recognition dataset.
+
+## How to Run the Script
+
+1. Download the dataset from the following URL: [UCI HAR Dataset](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
+2. Unzip the dataset into your working directory.
+3. Run the `run_analysis.R` script in R. Ensure that the Samsung dataset is located in the working directory.
+
+## Output
+
+The script generates a tidy dataset (`tidy_dataset.txt`) that contains the average of each measurement for each subject and activity.
+
+## Code Book
+
+See the `CodeBook.md` file for descriptions of the variables and transformations performed in the analysis.
+
+
+
+# A backup of the main script is below:
+
 # Getting-and-Cleaning-Data-Course-Project
 Getting and Cleaning Data Course Project, Coursera
 
