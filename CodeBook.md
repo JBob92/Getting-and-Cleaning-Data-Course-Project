@@ -1,4 +1,4 @@
-CodeBook.md - Samsung Data 
+CodeBook.md - Samsung Data
 Data Set Overview
 This dataset is a collection of sensor data captured from smartphones. The data consists of accelerometer and gyroscope measurements collected during activities performed by subjects. It includes training and testing data, each with the following variables:
 
